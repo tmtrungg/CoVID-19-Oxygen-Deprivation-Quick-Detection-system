@@ -30,5 +30,5 @@ https://youtu.be/A9wDHHCZ2ls
 ## Project running demo:
 https://youtu.be/3DPnJuu54Co
 
-## project's full article and story here:
+## project's full article and story:
 https://www.hackster.io/trantrung951/covid-19-oxygen-deprivation-quick-detection-project-b1b4b0
